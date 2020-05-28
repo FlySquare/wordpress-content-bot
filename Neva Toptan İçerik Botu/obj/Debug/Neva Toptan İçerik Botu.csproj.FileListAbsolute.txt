@@ -1,0 +1,16 @@
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\bin\Debug\Neva Toptan İçerik Botu.exe.config
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\bin\Debug\Neva Toptan İçerik Botu.exe
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\bin\Debug\Neva Toptan İçerik Botu.pdb
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\obj\Debug\Neva Toptan İçerik Botu.csprojAssemblyReference.cache
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\obj\Debug\Neva_Toptan_İçerik_Botu.Form1.resources
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\obj\Debug\Neva_Toptan_İçerik_Botu.Properties.Resources.resources
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\obj\Debug\Neva Toptan İçerik Botu.csproj.GenerateResource.cache
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\obj\Debug\Neva Toptan İçerik Botu.csproj.CoreCompileInputs.cache
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\obj\Debug\Neva Toptan İçerik Botu.exe
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\obj\Debug\Neva Toptan İçerik Botu.pdb
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\bin\Debug\HtmlAgilityPack.dll
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\bin\Debug\HtmlAgilityPack.xml
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\obj\Debug\Neva Toptan İçerik Botu.csproj.CopyComplete
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\obj\Debug\Neva_Toptan_İçerik_Botu.Form2.resources
+C:\Users\FlySquare\source\repos\Neva Toptan İçerik Botu\Neva Toptan İçerik Botu\obj\Debug\Neva_Toptan_İçerik_Botu.Form3.resources
